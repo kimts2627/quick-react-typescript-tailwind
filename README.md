@@ -1,0 +1,1 @@
+# Quick start for react typescript tailwind minimum setting
